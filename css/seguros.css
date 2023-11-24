@@ -57,4 +57,6 @@
   .seguros {
     grid-template-columns: 1fr;
   }
+  .seguros {
+    gap: 32px;
 }
