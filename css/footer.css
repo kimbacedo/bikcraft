@@ -39,7 +39,7 @@
 
 /* RESPONSIVO */
 @media (max-width: 800px) {
-  .footer > a {
+  .footer > img {
     display: none;
   }
   .footer {
