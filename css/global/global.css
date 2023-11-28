@@ -10,7 +10,8 @@ h4,
 span,
 ul,
 img,
-p {
+p,
+dd {
   margin: 0px;
 }
 ul {
