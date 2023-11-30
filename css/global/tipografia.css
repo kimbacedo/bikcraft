@@ -44,6 +44,12 @@
   font-weight: 600;
   line-height: 1rem;
 }
+.font-2-xs {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.25;
+}
 
 /* RESPONSIVO */
 @media (max-width: 1200px) {
