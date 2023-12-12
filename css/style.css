@@ -4,6 +4,7 @@
 @import url(./global/cores.css);
 @import url(./global/header.css);
 @import url(./global/footer.css);
+@import url(./global/animacao.css);
 
 /* Home */
 @import url(./home/intro.css);
